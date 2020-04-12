@@ -10,7 +10,7 @@
     "watch": "tsc --watch",
     "prepublishOnly": "npm run build"
   },
-  "author": "Carlos Martínez <carlosmart7194@gmail.com>",
+  "author": "Carlos Martínez <carlosmart7104@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@capacitor/core": "latest"
